@@ -1,0 +1,7 @@
+6
+Rectangle a=12, b=17
+Square side=41
+Circle radius=13
+Square side=17
+Rectangle a=8, b=91
+Square side=12

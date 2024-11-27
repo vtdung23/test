@@ -1,0 +1,8 @@
+<Shapes Total="6" >
+ <Rectangle Width="12" Height="17" />
+ <Square Side="41" />
+ <Circle Radius="13"/>
+ <Square Side="17" />
+ <Rectangle Width="8" Height="91" />
+ <Square Side="12" />
+</Shapes>
